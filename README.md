@@ -1,4 +1,13 @@
-### Hi there 👋
+# Niko :octocat:
+
+Hello, I am a recent Computer Science graduate from York University
+- 🌱 I’m currently learning JS/React Web development & Swift App development
+- 📫 How to reach me: [Email](mailto:diamantakisniko@gmail.com)
+
+### Languages and tools :computer:
+
+
+
 
 <!--
 **nikodiam99/nikodiam99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
