@@ -3,7 +3,7 @@
 Hello, I am a recent Computer Science graduate from York University
 - 🌱 I’m currently learning JS/React Web development & Golang
 - 📫 How to reach me: [Email](mailto:diamantakisniko@gmail.com)
-- [My Website](nikodiam-portfolio.vercel.app)
+- [My Website](https://nikodiam-portfolio.vercel.app/)
 
 <!--### Languages and tools :computer: -->
 
