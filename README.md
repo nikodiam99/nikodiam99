@@ -1,7 +1,7 @@
 # Niko :octocat:
 
 Hello, I am a recent Computer Science graduate from York University
-- 🌱 I’m currently learning JS/React Web development & Golang
+- 🌱 I’m currently learning JS/React Web development & SwiftUI
 - 📫 How to reach me: [Email](mailto:diamantakisniko@gmail.com)
 - [My Website](https://nikodiam-portfolio.vercel.app/)
 
